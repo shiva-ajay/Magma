@@ -289,3 +289,22 @@ body {
     background-color: #fff;
     color: #0a3cce;
 }
+
+
+
+.right9{
+    height: 100%;
+    width: 60%;
+    position: relative;
+}
+.right9-center{
+    height: 50%;
+    width: 85%;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-image: url(./assets/thisismagma.jpeg);
+    background-size: cover;
+    left: 5%;
+}
